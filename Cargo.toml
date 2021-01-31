@@ -1,0 +1,11 @@
+[package]
+name = "jh"
+version = "0.1.0"
+authors = ["DaanA32 <daan32@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dev-dependencies]
+jh-ffi = "0.5.0"
+rand = "0.8.3"
