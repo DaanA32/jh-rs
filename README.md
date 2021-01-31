@@ -1,2 +1,2 @@
 # jh-rs
-Reimplementation of [skein-ffi](https://github.com/Ragnaroek/skein-ffi) in pure rust.
+Reimplementation of [jh-ffi](https://github.com/Ragnaroek/jh-ffi) in pure rust.
